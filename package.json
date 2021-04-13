@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/benebp/rateomatic-backend#readme",
   "dependencies": {
+    "awilix": "^4.3.3",
     "eslint": "^7.24.0",
     "eslint-config-ndpkg": "^3.8.0",
     "express": "^4.17.1",
