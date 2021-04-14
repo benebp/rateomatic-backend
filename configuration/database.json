@@ -1,3 +1,5 @@
 {
-  "db_url": "mongodb://localhost:27017/rateomatic"
+  "connectionString": "mongodb://localhost:27017/RTMTC",
+  "databaseName": "RTMTC",
+  "collectionNameForUsers": "users"
 }
